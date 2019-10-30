@@ -53,6 +53,3 @@ export function main(event, context, callback) {
     callback(null, response);
   });
 }
-         
-     
-     
