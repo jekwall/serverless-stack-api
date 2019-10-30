@@ -48,4 +48,8 @@ functions:
           path: notes
           method: post
           cors: true
+<<<<<<< HEAD
           authorizer: aws_iam
+=======
+          authorizer: aws_iam
+>>>>>>> 66e468ef65f93de320182d7f5e8c6eb194480394
